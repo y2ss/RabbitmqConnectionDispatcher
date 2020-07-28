@@ -1,0 +1,14 @@
+*.log
+.idea/*
+*.txt
+*.o
+*.so
+af/
+af/*.txt
+*.log_lock
+*/node_modules*
+*/dist*
+*tar.gz
+*.css
+*.js
+*.map
